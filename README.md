@@ -97,7 +97,7 @@ AI-Powered-Task-Management-System/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/AI-Powered-Task-Management-System.git
+git clone https://github.com/Shaheen0725/Project1_AIPowered_TaskManagement_System.git
 
 cd AI-Powered-Task-Management-System
 
@@ -146,6 +146,46 @@ streamlit run dashboard/app.py
 * Team Performance Analytics
 
 ---
+## 🌿 Git Workflow
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Shaheen0725/Project1_AIPowered_TaskManagement_System.git
+cd AI-Powered-Task-Management-System
+```
+
+### Create Development Branch
+
+```bash
+git checkout -b development
+```
+
+### Add Changes
+
+```bash
+git add .
+```
+
+### Commit Changes
+
+```bash
+git commit -m "Implemented task classification model"
+```
+
+### Push Changes
+
+```bash
+git push origin development
+```
+
+### Merge to Main
+
+```bash
+git checkout main
+git merge development
+git push origin main
+```
 
 ## 👨‍💻 Author
 
